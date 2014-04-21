@@ -1,5 +1,5 @@
-__author__ = 'Administrator'
-__author__ = 'Administrator'
+__author__ = 'luoguoling'
+__author__ = 'luoguoling'
 import os
 import logging
 def log1():
